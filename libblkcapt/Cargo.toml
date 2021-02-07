@@ -19,7 +19,7 @@ strum_macros = "0.20"
 chrono = { version = "0.4", features = ["serde"] }
 humantime = "2.0"
 humantime-serde = "1.0"
-derivative = "2.1"
+derivative = "2.2"
 http = "0.2"
 hyper = "0.14"
 hyper-tls = "0.5"
