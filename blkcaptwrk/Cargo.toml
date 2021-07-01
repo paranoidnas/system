@@ -10,7 +10,7 @@ blkcaptapp = { path = "../blkcaptapp" }
 anyhow = "1.0.31"
 thiserror = "1.0.20"
 chrono = { version = "0.4", features = ["serde"] }
-tokio = { version = "1.0", features = ["full"] }
+tokio = { version = "1.7", features = ["full"] }
 futures-util = "0.3"
 humantime = "2.0"
 async-trait = "0.1"
