@@ -13,7 +13,7 @@ clap = { git = "https://github.com/clap-rs/clap", rev = "022f18278e67cccff53b73f
 anyhow = "1.0.31"
 thiserror = "1.0.20"
 human-panic = "1.0"
-comfy-table = "1.1"
+comfy-table = "3.0"
 uuid = { version = "0.8", features = ["serde", "v4"] }
 humantime = "2.0"
 hyper = "0.14"
